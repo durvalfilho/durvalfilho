@@ -36,7 +36,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT (SHORT)                                 -->
+<!--                         ABOUT + GENGAR GIF                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -52,14 +52,14 @@ Engenheiro de Software · Parnaíba/PI<br/>
 Transformo código em **faturamento**: sites, automações,<br/>
 sistemas, marketing e ADS. Python é minha arma preferida.<br/>
 
-<sub>🎓 Superior completo · aluno ativo em **Alura** + **Asimov Academy**</sub>
+<sub>Superior completo · aluno ativo em **Alura** + **Asimov Academy**</sub>
 
 <br/>
 
 </td>
-<td valign="middle" width="180">
+<td valign="middle" width="200" align="center">
 
-<img src="./assets/psyduck.gif" width="160" alt="Psyduck" />
+<img src="https://media.tenor.com/kJuDMXGW8awAAAAi/pokemon-gengar.gif" width="180" alt="Gengar" />
 
 </td>
 </tr>
