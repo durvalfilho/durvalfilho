@@ -1,29 +1,4 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       TERMINAL HERO (ASCII)                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  ● ● ●                                       claude-code ⚡   │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   heihachi@matrix:~$ ssh durval.dev --connect                │
-│                                                              │
-│   [+] Establishing secure tunnel...............[  OK  ]      │
-│   [+] Loading developer profile................[  OK  ]      │
-│   [+] Initializing neural engine................[  OK  ]     │
-│   [+] Welcome, operator.                                     │
-│                                                              │
-│   heihachi@matrix:~$ _                                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     JAPANESE TITLE — HEIHACHI BIG                     -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -40,17 +15,17 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      SUMMARY CARDS (MATRIX THEME)                     -->
+<!--                    SUMMARY CARDS (2077 — CYBERPUNK)                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durvalfilho&theme=matrix" alt="Stats" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durvalfilho&theme=matrix" alt="Top Languages" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durvalfilho&theme=matrix&utcOffset=-3" alt="Productive Time" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durvalfilho&theme=2077" alt="Stats" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durvalfilho&theme=2077" alt="Top Languages" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durvalfilho&theme=2077&utcOffset=-3" alt="Productive Time" width="32%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durvalfilho&theme=matrix" alt="Profile Details" width="64%" />
-<img src="https://streak-stats.demolab.com?user=durvalfilho&theme=matrix&hide_border=true&background=0a0a0a&stroke=D97757&ring=4ade80&fire=D97757&currStreakLabel=D97757&sideLabels=4ade80&currStreakNum=ffffff&sideNums=ffffff&dates=737373" alt="Streak" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durvalfilho&theme=2077" alt="Profile Details" width="64%" />
+<img src="https://streak-stats.demolab.com?user=durvalfilho&theme=radical&hide_border=true&background=0a0a0a&stroke=D97757&ring=4ade80&fire=D97757&currStreakLabel=D97757&sideLabels=4ade80&currStreakNum=ffffff&sideNums=ffffff&dates=737373" alt="Streak" width="32%" />
 
 </div>
 
@@ -199,20 +174,9 @@ drwxr-xr-x  automacoes-py/    ▸ bots em Python para marketing + ADS
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   heihachi@matrix:~$ exit                                    │
-│                                                              │
-│   > connection closed by 平八                                │
-│   > また会いましょう — see you in the next commit            │
-│                                                              │
-│   [ portfolio ] [ instagram ] [ whatsapp ]                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 <sub>
+
+また会いましょう — see you in the next commit · 平八
 
 [<a href="https://durvaldevelop.vercel.app/">portfolio</a>] · [<a href="https://instagram.com/durvaldmf">instagram</a>] · [<a href="https://wa.me/55SEU-NUMERO">whatsapp</a>]
 
