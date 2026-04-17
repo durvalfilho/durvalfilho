@@ -1,18 +1,20 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          TOP WAVE BANNER                              -->
+<!--                          MATRIX RAIN — TOP                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=header" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" height="130" alt="matrix" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      JAPANESE HEADLINE + WELCOME                      -->
+<!--                     JAPANESE TITLE — HEIHACHI BIG                     -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <sub>ソフトウェアエンジニア</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=42&duration=4000&pause=1000&color=D946EF&center=true&vCenter=true&width=500&height=60&lines=Be+welcome!;%E5%B9%B3%E5%85%AB+%C2%B7+Heihachi" alt="Be welcome!" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=900&size=95&duration=3500&pause=1500&color=D946EF&center=true&vCenter=true&multiline=false&width=500&height=130&lines=%E5%B9%B3+%E5%85%AB" alt="平八" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=36&duration=3500&pause=1500&color=A855F7&center=true&vCenter=true&width=500&height=55&lines=H+E+I+H+A+C+H+I;Be+welcome!" alt="Heihachi · Be welcome" />
 
 </div>
 
@@ -36,7 +38,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT + GENGAR GIF                            -->
+<!--                     ABOUT + BIRTHDAY POKEMON GIF                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -59,7 +61,7 @@ sistemas, marketing e ADS. Python é minha arma preferida.<br/>
 </td>
 <td valign="middle" width="200" align="center">
 
-<img src="https://media.tenor.com/kJuDMXGW8awAAAAi/pokemon-gengar.gif" width="180" alt="Gengar" />
+<img src="https://media.tenor.com/c-sGSxXbfH4AAAAi/happy-birthday.gif" width="180" alt="Pokémon" />
 
 </td>
 </tr>
@@ -137,6 +139,26 @@ drwxr-xr-x  automacoes-py/    ▸ bots em Python para marketing + ADS
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTION HEATMAP (NEW)                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&duration=99999&pause=99999&color=D946EF&center=true&vCenter=true&width=500&lines=%3E+git+log+--graph+--all" alt="contribution graph" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/d946ef/durvalfilho" alt="Heatmap de contribuições" width="95%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animada" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                         RETRO VISITS COUNTER                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -169,7 +191,7 @@ drwxr-xr-x  automacoes-py/    ▸ bots em Python para marketing + ADS
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          BOTTOM WAVE BANNER                           -->
+<!--                        MATRIX RAIN — BOTTOM                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=100&section=footer&reversal=true" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" height="130" alt="matrix" />
