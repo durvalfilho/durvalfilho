@@ -149,80 +149,80 @@ drwxr-xr-x  automacoes-py/    ▸ bots em Python para marketing + ADS
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--             ACHIEVEMENTS — RETRO GAME GIFS (UNIFORM SIZE)             -->
+<!--            ACHIEVEMENTS — OFFICIAL POKEMON SPRITES (PokeAPI)          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&duration=99999&pause=99999&color=4ADE80&center=true&vCenter=true&width=500&lines=%3E+achievements+--unlocked" alt="achievements" />
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&duration=99999&pause=99999&color=4ADE80&center=true&vCenter=true&width=500&lines=%3E+pokedex+--achievements" alt="pokedex achievements" />
 
-<sub>実績 · Conquistas desbloqueadas</sub>
+<sub>ポケモン図鑑 · Pokédex de Conquistas</sub>
 
 <br/><br/>
 
 <table>
 <tr align="center">
 <td width="16%">
-<img src="https://raw.githubusercontent.com/alvarotrigo/alvarotrigo/master/images/triforce.gif" height="70" alt="Triforce" /><br/>
-<sub><b>Triforce of Code</b></sub><br/>
-<sub>Sabedoria · Coragem · Poder</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="80" alt="Pikachu" /><br/>
+<sub><b>Pikachu</b></sub><br/>
+<sub>Energia que nunca acaba</sub>
 </td>
 <td width="16%">
-<img src="https://media.tenor.com/XJHi2-TJPAsAAAAi/zelda-heart.gif" height="70" alt="Heart" /><br/>
-<sub><b>Heart Container</b></sub><br/>
-<sub>Full HP em produção</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" height="80" alt="Charizard" /><br/>
+<sub><b>Charizard</b></sub><br/>
+<sub>Deploy em chamas</sub>
 </td>
 <td width="16%">
-<img src="https://media.tenor.com/jakq-OVMFekAAAAi/mario-star.gif" height="70" alt="Star" /><br/>
-<sub><b>Super Star</b></sub><br/>
-<sub>Deploy invencível</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" height="80" alt="Blastoise" /><br/>
+<sub><b>Blastoise</b></sub><br/>
+<sub>Pressão em produção</sub>
 </td>
 <td width="16%">
-<img src="https://media.tenor.com/NILMNSc2n-UAAAAi/mario-mushroom.gif" height="70" alt="Mushroom" /><br/>
-<sub><b>Power-Up</b></sub><br/>
-<sub>Python ativado</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif" height="80" alt="Venusaur" /><br/>
+<sub><b>Venusaur</b></sub><br/>
+<sub>Stack evoluída</sub>
 </td>
 <td width="16%">
-<img src="https://media.tenor.com/G6ABFVCvRFUAAAAi/pokeball-pokemon.gif" height="70" alt="Pokeball" /><br/>
-<sub><b>Pokébola</b></sub><br/>
-<sub>Bugs capturados</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" height="80" alt="Mewtwo" /><br/>
+<sub><b>Mewtwo</b></sub><br/>
+<sub>IA em mãos</sub>
 </td>
 <td width="16%">
-<img src="https://media.tenor.com/kbQ8LkQGkKcAAAAi/sonic-ring.gif" height="70" alt="Ring" /><br/>
-<sub><b>Golden Ring</b></sub><br/>
-<sub>Sprint velocidade Sonic</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif" height="80" alt="Mew" /><br/>
+<sub><b>Mew</b></sub><br/>
+<sub>Código raro e elegante</sub>
 </td>
 </tr>
 <tr align="center">
 <td>
-<img src="https://media.tenor.com/qaBCn6Zl6usAAAAi/mario-coin.gif" height="70" alt="Coin" /><br/>
-<sub><b>Gold Coin</b></sub><br/>
-<sub>Código vira $$$</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" height="80" alt="Dragonite" /><br/>
+<sub><b>Dragonite</b></sub><br/>
+<sub>Full-stack sênior</sub>
 </td>
 <td>
-<img src="https://media.tenor.com/pm3-xgu-iRgAAAAi/zelda-key.gif" height="70" alt="Key" /><br/>
-<sub><b>Boss Key</b></sub><br/>
-<sub>Acesso ao prod</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="80" alt="Gengar" /><br/>
+<sub><b>Gengar</b></sub><br/>
+<sub>Bug-hunter madrugador</sub>
 </td>
 <td>
-<img src="https://media.tenor.com/jy5ix2mCjtcAAAAi/master-sword-zelda.gif" height="70" alt="Master Sword" /><br/>
-<sub><b>Master Sword</b></sub><br/>
-<sub>TypeScript afiado</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" height="80" alt="Snorlax" /><br/>
+<sub><b>Snorlax</b></sub><br/>
+<sub>API nunca cai</sub>
 </td>
 <td>
-<img src="https://media.tenor.com/7rPF9Z6CCccAAAAi/zelda-fairy.gif" height="70" alt="Fairy" /><br/>
-<sub><b>Navi Fairy</b></sub><br/>
-<sub>Claude Code guiando</sub>
-</td>
-<td>
-<img src="https://media.tenor.com/XwTkkOn9fVoAAAAi/mario-1-up-mushroom.gif" height="70" alt="1UP" /><br/>
-<sub><b>1-UP</b></sub><br/>
-<sub>Git revert salvou</sub>
-</td>
-<td>
-<img src="https://media.tenor.com/VN8I6JmY7bIAAAAi/pokemon-masterball.gif" height="70" alt="Master Ball" /><br/>
-<sub><b>Master Ball</b></sub><br/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif" height="80" alt="Gyarados" /><br/>
+<sub><b>Gyarados</b></sub><br/>
 <sub>SaaS em produção</sub>
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" height="80" alt="Lucario" /><br/>
+<sub><b>Lucario</b></sub><br/>
+<sub>Código com aura forte</sub>
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif" height="80" alt="Rayquaza" /><br/>
+<sub><b>Rayquaza</b></sub><br/>
+<sub>Domina a cloud</sub>
 </td>
 </tr>
 </table>
