@@ -156,9 +156,13 @@ drwxr-xr-x  automacoes-py/    ▸ bots em Python para marketing + ADS
 
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&duration=99999&pause=99999&color=4ADE80&center=true&vCenter=true&width=500&lines=%3E+pokedex+--achievements" alt="pokedex achievements" />
 
-<sub>ポケモン図鑑 · Pokédex de Conquistas</sub>
+<p>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="24" alt="Pokébola" />
+  <sub><b>ポケモン図鑑 · Pokédex de Conquistas</b></sub>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="24" alt="Pokébola" />
+</p>
 
-<br/><br/>
+<br/>
 
 <table>
 <tr align="center">
@@ -229,7 +233,12 @@ drwxr-xr-x  automacoes-py/    ▸ bots em Python para marketing + ADS
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=durvalfilho&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<!-- MASTER BALL — POKÉMON MASTER BADGE (replaces bugged GitHub Trophies) -->
+<p>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="48" alt="Master Ball" />
+</p>
+<sub><b>MESTRE POKÉMON</b></sub><br/>
+<sub>Todos os badges conquistados</sub>
 
 </div>
 
