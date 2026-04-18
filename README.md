@@ -133,80 +133,96 @@ drwxr-xr-x  automacoes-py/    ▸ bots em Python para marketing + ADS
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                  ACHIEVEMENTS — ZELDA STYLE INSIGNIAS                 -->
+<!--                      CONTRIBUTION SNAKE ONLY                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&duration=99999&pause=99999&color=4ADE80&center=true&vCenter=true&width=500&lines=%3E+git+log+--graph+--all" alt="git log" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animada" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--             ACHIEVEMENTS — RETRO GAME GIFS (UNIFORM SIZE)             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&duration=99999&pause=99999&color=4ADE80&center=true&vCenter=true&width=500&lines=%3E+achievements+--unlocked" alt="achievements" />
 
-<sub>実績 · Insígnias conquistadas</sub>
+<sub>実績 · Conquistas desbloqueadas</sub>
 
 <br/><br/>
 
 <table>
 <tr align="center">
 <td width="16%">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60" /><br/>
-<sub><b>Python Master</b></sub><br/>
-<sub>🐍 Serpente domada</sub>
+<img src="https://raw.githubusercontent.com/alvarotrigo/alvarotrigo/master/images/triforce.gif" height="70" alt="Triforce" /><br/>
+<sub><b>Triforce of Code</b></sub><br/>
+<sub>Sabedoria · Coragem · Poder</sub>
 </td>
 <td width="16%">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="60" /><br/>
-<sub><b>React Sage</b></sub><br/>
-<sub>⚛️ Componentes puros</sub>
+<img src="https://media.tenor.com/XJHi2-TJPAsAAAAi/zelda-heart.gif" height="70" alt="Heart" /><br/>
+<sub><b>Heart Container</b></sub><br/>
+<sub>Full HP em produção</sub>
 </td>
 <td width="16%">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="60" /><br/>
-<sub><b>Type Warrior</b></sub><br/>
-<sub>🗡️ Tipagem forte</sub>
+<img src="https://media.tenor.com/jakq-OVMFekAAAAi/mario-star.gif" height="70" alt="Star" /><br/>
+<sub><b>Super Star</b></sub><br/>
+<sub>Deploy invencível</sub>
 </td>
 <td width="16%">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/supabase/supabase.png" width="60" /><br/>
-<sub><b>DB Keeper</b></sub><br/>
-<sub>🗝️ Guardião dos dados</sub>
+<img src="https://media.tenor.com/NILMNSc2n-UAAAAi/mario-mushroom.gif" height="70" alt="Mushroom" /><br/>
+<sub><b>Power-Up</b></sub><br/>
+<sub>Python ativado</sub>
 </td>
 <td width="16%">
-<img src="https://simpleicons.org/icons/anthropic.svg" width="60" /><br/>
-<sub><b>AI Whisperer</b></sub><br/>
-<sub>🤖 Claude em mãos</sub>
+<img src="https://media.tenor.com/G6ABFVCvRFUAAAAi/pokeball-pokemon.gif" height="70" alt="Pokeball" /><br/>
+<sub><b>Pokébola</b></sub><br/>
+<sub>Bugs capturados</sub>
 </td>
 <td width="16%">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vercel/vercel.png" width="60" /><br/>
-<sub><b>Deploy Ninja</b></sub><br/>
-<sub>⚡ Zero downtime</sub>
+<img src="https://media.tenor.com/kbQ8LkQGkKcAAAAi/sonic-ring.gif" height="70" alt="Ring" /><br/>
+<sub><b>Golden Ring</b></sub><br/>
+<sub>Sprint velocidade Sonic</sub>
 </td>
 </tr>
 <tr align="center">
 <td>
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="60" /><br/>
-<sub><b>Ads Hunter</b></sub><br/>
-<sub>🎯 Meta + Google Ads</sub>
+<img src="https://media.tenor.com/qaBCn6Zl6usAAAAi/mario-coin.gif" height="70" alt="Coin" /><br/>
+<sub><b>Gold Coin</b></sub><br/>
+<sub>Código vira $$$</sub>
 </td>
 <td>
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60" /><br/>
-<sub><b>Automator</b></sub><br/>
-<sub>⚙️ Bots em Python</sub>
+<img src="https://media.tenor.com/pm3-xgu-iRgAAAAi/zelda-key.gif" height="70" alt="Key" /><br/>
+<sub><b>Boss Key</b></sub><br/>
+<sub>Acesso ao prod</sub>
 </td>
 <td>
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="60" /><br/>
-<sub><b>Growth Maker</b></sub><br/>
-<sub>📈 Código → $$$</sub>
+<img src="https://media.tenor.com/jy5ix2mCjtcAAAAi/master-sword-zelda.gif" height="70" alt="Master Sword" /><br/>
+<sub><b>Master Sword</b></sub><br/>
+<sub>TypeScript afiado</sub>
 </td>
 <td>
-<img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="60" /><br/>
-<sub><b>SaaS Builder</b></sub><br/>
-<sub>🏗️ Do zero ao prod</sub>
+<img src="https://media.tenor.com/7rPF9Z6CCccAAAAi/zelda-fairy.gif" height="70" alt="Fairy" /><br/>
+<sub><b>Navi Fairy</b></sub><br/>
+<sub>Claude Code guiando</sub>
 </td>
 <td>
-<img src="https://cdn-icons-png.flaticon.com/512/2306/2306177.png" width="60" /><br/>
-<sub><b>Night Owl</b></sub><br/>
-<sub>🌙 Deploy às 3AM</sub>
+<img src="https://media.tenor.com/XwTkkOn9fVoAAAAi/mario-1-up-mushroom.gif" height="70" alt="1UP" /><br/>
+<sub><b>1-UP</b></sub><br/>
+<sub>Git revert salvou</sub>
 </td>
 <td>
-<img src="https://cdn-icons-png.flaticon.com/512/3050/3050525.png" width="60" /><br/>
-<sub><b>Coffee Knight</b></sub><br/>
-<sub>☕ Café gelado +10</sub>
+<img src="https://media.tenor.com/VN8I6JmY7bIAAAAi/pokemon-masterball.gif" height="70" alt="Master Ball" /><br/>
+<sub><b>Master Ball</b></sub><br/>
+<sub>SaaS em produção</sub>
 </td>
 </tr>
 </table>
