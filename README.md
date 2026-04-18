@@ -133,20 +133,87 @@ drwxr-xr-x  automacoes-py/    ▸ bots em Python para marketing + ADS
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION HEATMAP                              -->
+<!--                  ACHIEVEMENTS — ZELDA STYLE INSIGNIAS                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&duration=99999&pause=99999&color=4ADE80&center=true&vCenter=true&width=500&lines=%3E+git+log+--graph+--all" alt="git log" />
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&duration=99999&pause=99999&color=4ADE80&center=true&vCenter=true&width=500&lines=%3E+achievements+--unlocked" alt="achievements" />
+
+<sub>実績 · Insígnias conquistadas</sub>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/4ade80/durvalfilho" alt="Heatmap de contribuições" width="95%" />
+<table>
+<tr align="center">
+<td width="16%">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60" /><br/>
+<sub><b>Python Master</b></sub><br/>
+<sub>🐍 Serpente domada</sub>
+</td>
+<td width="16%">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="60" /><br/>
+<sub><b>React Sage</b></sub><br/>
+<sub>⚛️ Componentes puros</sub>
+</td>
+<td width="16%">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="60" /><br/>
+<sub><b>Type Warrior</b></sub><br/>
+<sub>🗡️ Tipagem forte</sub>
+</td>
+<td width="16%">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/supabase/supabase.png" width="60" /><br/>
+<sub><b>DB Keeper</b></sub><br/>
+<sub>🗝️ Guardião dos dados</sub>
+</td>
+<td width="16%">
+<img src="https://simpleicons.org/icons/anthropic.svg" width="60" /><br/>
+<sub><b>AI Whisperer</b></sub><br/>
+<sub>🤖 Claude em mãos</sub>
+</td>
+<td width="16%">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vercel/vercel.png" width="60" /><br/>
+<sub><b>Deploy Ninja</b></sub><br/>
+<sub>⚡ Zero downtime</sub>
+</td>
+</tr>
+<tr align="center">
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="60" /><br/>
+<sub><b>Ads Hunter</b></sub><br/>
+<sub>🎯 Meta + Google Ads</sub>
+</td>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60" /><br/>
+<sub><b>Automator</b></sub><br/>
+<sub>⚙️ Bots em Python</sub>
+</td>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="60" /><br/>
+<sub><b>Growth Maker</b></sub><br/>
+<sub>📈 Código → $$$</sub>
+</td>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="60" /><br/>
+<sub><b>SaaS Builder</b></sub><br/>
+<sub>🏗️ Do zero ao prod</sub>
+</td>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/2306/2306177.png" width="60" /><br/>
+<sub><b>Night Owl</b></sub><br/>
+<sub>🌙 Deploy às 3AM</sub>
+</td>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/3050/3050525.png" width="60" /><br/>
+<sub><b>Coffee Knight</b></sub><br/>
+<sub>☕ Café gelado +10</sub>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animada" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=durvalfilho&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -169,7 +236,7 @@ drwxr-xr-x  automacoes-py/    ▸ bots em Python para marketing + ADS
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER — TERMINAL EXIT                         -->
+<!--                              FOOTER                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
